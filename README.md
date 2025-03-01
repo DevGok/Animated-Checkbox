@@ -1,0 +1,1 @@
+# This is an animated checkbox for any web project
